@@ -1,5 +1,5 @@
 
-path: '/content/gdrive/My Drive/number_plates_training/data' # dataset root dir
+path: '/content/gdrive/My Drive/train_plates/data' # dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/train  # val images (relative to 'path')
 
